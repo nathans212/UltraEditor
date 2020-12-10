@@ -1,0 +1,9 @@
+Latest: "Du er på den nyeste versjonen"
+Outdated: "Du er på en utdatert versjon"
+UpdateNow:
+  updating: "Plugin Oppdateres"
+  restart: "Nyeste versjon oppdatert, Vennligst start på nytt for å aktivere"
+AuthFailed: "Godkjenning Feilet, er det riktig nøkkel?" 
+NoPermission: "Du har ikke tillatelse til å gjøre denne kommandoen"
+AuthMessage: "Din godkjennings nøkkel er {key}"
+EditorMessage: "Din redigerings lenke er"

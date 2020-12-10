@@ -1,0 +1,9 @@
+Latest: "You're on the Latest version"
+Outdated: "You're on a outdated version"
+UpdateNow:
+  updating: "Plugin updating
+  restart: "New version downloaded, please restart to enable"
+AuthFailed: "Auth Failed, In correct key?" 
+NoPermission: "You don't have permission to run this command"
+AuthMessage: "Your Auth key is {key}"
+EditorMessage: "The editor link is"

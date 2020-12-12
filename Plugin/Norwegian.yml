@@ -8,4 +8,4 @@ NoPermission: "Du har ikke tillatelse til å gjøre denne kommandoen"
 AuthMessage: "Din godkjennings nøkkel er {key}"
 EditorMessage: "Din redigerings lenke er"
 Request: 
-  NeedsArgs: ""
+  NeedsArgs: "Trenger Argumenter"

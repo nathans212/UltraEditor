@@ -7,3 +7,5 @@ AuthFailed: "Auth Failed, In correct key?"
 NoPermission: "You don't have permission to run this command"
 AuthMessage: "Your Auth key is {key}"
 EditorMessage: "The editor link is"
+Request: 
+  NeedsArgs: "You don't have enough args"

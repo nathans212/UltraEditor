@@ -1,0 +1,11 @@
+Latest: "§4Je zit op de laatste versie"
+Outdated: "Je hebt een verouderde versie"
+UpdateNow:
+  updating: "Plugin updaten"
+  restart: "Nieuwe versie gedownload. Start opnieuw om in te schakelen"
+AuthFailed: "Auth mislukt, is de sleutel juist?" 
+NoPermission: "U bent niet gemachtigd om deze opdracht uit te voeren"
+AuthMessage: "Uw auth-sleutel is {key}"
+EditorMessage: "De editorlink is"
+Request: 
+  NeedsArgs: "Je hebt niet genoeg argumenten"
